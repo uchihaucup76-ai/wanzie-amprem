@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+data/bot-sessions/
+data/.bot-master-key
+data/bot-secrets.json
